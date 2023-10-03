@@ -1,5 +1,5 @@
 # bharath-intern-task-1
-**STEP - 1:** 
+#**STEP - 1:** 
 import the set of libraries required for solving the problem 
 **STEP - 2:** 
 load the dataset file 
