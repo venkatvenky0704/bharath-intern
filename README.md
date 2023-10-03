@@ -20,7 +20,7 @@ load the dataset file from sklearn.datsets \
 **STEP - 3:** 
 see the feature_names and target_names for clear understanding  \
 Here we can understand that  Sepal length vs Sepal Width (Setosa vs Versicolor) and Petal length vs Pepal Width (Setosa vs Versicolor) we need to plot so we need to \
-assign the 3 target names to 3 different variables here df0,df1,df2/\
+assign the 3 target names to 3 different variables here df0,df1,df2\
 **STEP - 4:**
 using tarin and testsplit model train the model \
 **STEP - 5:** 
