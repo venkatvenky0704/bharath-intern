@@ -10,4 +10,4 @@ creating 2 columns, in  one column we have all the column data except thr predic
 **STEP - 5:** 
 Create linear regression object and fit both the columns 
 **STEP - 6:** 
-to predict the output
+to predict the output of the required house prediction value
