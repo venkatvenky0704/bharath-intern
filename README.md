@@ -18,12 +18,12 @@ import the set of libraries required for solving the problem\
 **STEP - 2:** 
 load the dataset file from sklearn.datsets \
 **STEP - 3:** 
-see the feature_names and target_names for clear understanding  
-Here we can understand that  Sepal length vs Sepal Width (Setosa vs Versicolor) and Petal length vs Pepal Width (Setosa vs Versicolor) we need to plot so we need to 
-assign the 3 target names to 3 different variables here df0,df1,df2
+see the feature_names and target_names for clear understanding  \
+Here we can understand that  Sepal length vs Sepal Width (Setosa vs Versicolor) and Petal length vs Pepal Width (Setosa vs Versicolor) we need to plot so we need to \
+assign the 3 target names to 3 different variables here df0,df1,df2/\
 **STEP - 4:**
-using tarin and testsplit model train the model 
+using tarin and testsplit model train the model \
 **STEP - 5:** 
-use KNN algorithm and then fit and predict
+use KNN algorithm and then fit and predict\
 **STEP - 6:** 
-make prediction on the new data by providing the sepal length , sepal width , petal length , petal width
+make prediction on the new data by providing the sepal length , sepal width , petal length , petal width\
